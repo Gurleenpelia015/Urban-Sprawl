@@ -10,5 +10,5 @@ Best-selling products and categories
 Customer demographics & behavior
 Store performance & inventory overview
 Interactive filters (dates, region, category)
+[Open Starbucks Dashboard](https://lookerstudio.google.com/u/1/reporting/ed2b9254-bde4-498b-91c3-9a2a3c00e8f9/page/HouiD/edit)
 
-![Uploading Screenshot 2025-05-08 at 6.18.52 PM.png…]()
